@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Travel Blog</title>
+  </head>
+  <body>
+    <h1>My Travels</h1>
+  </body>
+  <h2>Paris
+    <h3>September 2016
+      <nav>
+        <h3>
+          <li> <a
+            href="#Highlights">Highlights</a> </li>
+          <h3>
+            <li> <a href="FullStory">FullStory</a> </li>
+
+              <li> <a href="Day1">Day1</a> </li>
+
+                <li> <a href="Day1">Day2</a> </li>
+
+                  <li> <a href="Day1">Day3</a> </li>
+            <h3>
+              <li> <a href="Contact">Contact</a> </li>
+      </nav>
+      <div></div>
+      <h3>My Favorite Spots in Paris
+      <h3>
+        <li> <a
+          >The Eiffel Tower</a> </li>
+          <li> <a
+            >The Louvre</a> </li>
+            <li> <a
+          >Jardin du Luxembourg</a> </li>
+              <li> <a
+              >Palais Garnier</a> </li>
+                <li> <a
+                >Click <a href="#"https://en.wikipedia.org/wiki/Paris="_blank">Link</a> to learn more about Paris!
+
+      <h2>A Weekend on the Seine
+
+        <h4>Day1
+            <div></div>
+            <br />
+            On our first day, we started by visiting <em>Montmartre</em> right away.
+                <br />Our second stop was the Eiffel Tower (check out that beautiful picture!)  <br />
+              We ate dinner at a cute little bistro overlooking <em>la Seine</em>.
+              <div></div>
+              <br />
+              <img src="freelance1-img_paris-eiffel.jpg"/>
+              <div></div>
+              <br />
+          <h4>Day2
+            <div></div>
+        <br />
+            On our second day, we went shopping on <em>Avenue des Champs Elysees</em>.  <br />
+            Every single person we saw was dressed in the height of fashion.<br />
+After we finished shopping,we visited some really beautiful places! We went to
+<em>Notre Dame</em>.<br />
+We went on a macaron tour of Paris and ate all of the best macarons the city had to offer.  <br />
+After we finished shopping, we visited <em>le Louvre</em>.
+<div></div>
+<br />
+      <img src="freelance1-img_paris-louvre.jpg"/>
+<br />
+          <h4>Day 3
+              <div></div>
+              <br />
+            The picture below is of me visiting the <em>Arc de Triomphe</em>.  <br />
+            It's huge! We also went to <em>le Musee D'Orsay</em>.  <br />
+            Seeing the work of Renoir, Monet, and Van Gogh in person was completely breathtaking.  <br />
+            I was surprised to see that the museum also had many  <br />
+            sculptures including those by Auguste Rodin, Paul Gauguin, and Alfred Barye.
+  <div></div>
+            <br />
+            <img src="freelance1-img_paris-arc.jpg"/>
+            <div></div>
+<br />
+      <div>If you have any questions about my blog, here is my contact information:<div></div>
+      <br />
+    </div><strong>Email:contact@mytravels.com | <strong>Phone: 917-555-1098 | <strong>Address: 371 284th St, New York, NY, 10001</div>
+
+</html>
